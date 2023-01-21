@@ -1,15 +1,16 @@
-# Printf
+# printf
 Group project on ALX Software Engineering Programme using C programming Language
+
 Collaborators:  Tshiamo Bokaba and Nwosu Chukwuemeka
 
 This printf project is a collaboration between Tshiamo Bokaba and Nwosu Chukwuemeka who are Software Engineering students of ALG(ALX and Holberton) programme. This project involves a function named "_printf" which would imitate the actual "printf" command located in the stdio.h library. This function contains some of the basic features and functions found in the man 3 of "printf".
 
 **What you would learn from this project:**
 
-How to use git in a team setting
-Applying variadic functions to big projects
-The complexities of printf
-Managing a lot of flies and finding a good workflow
+--How to use git in a team setting
+--Applying variadic functions to big projects
+--The complexities of printf
+--Managing a lot of flies and finding a good workflow
 
 **General Requirements**
 
@@ -27,13 +28,13 @@ All your header files should be include guarded
 Note that we will not provide the _putchar function for this project
 
 **Authorized functions and macros**
-write (man 2 write)
-malloc (man 3 malloc)
-free (man 3 free)
-va_start (man 3 va_start)
-va_end (man 3 va_end)
-va_copy (man 3 va_copy)
-va_arg (man 3 va_arg)
+-write (man 2 write)
+-malloc (man 3 malloc)
+-free (man 3 free)
+-va_start (man 3 va_start)
+-va_end (man 3 va_end)
+-va_copy (man 3 va_copy)
+-va_arg (man 3 va_arg)
 
 **Compilation**
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
