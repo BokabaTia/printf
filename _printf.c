@@ -7,10 +7,7 @@ void print_buffer(char buffer[], int *buff_ind);
  * @format: format.
  * Return: Printed chars.
  */
-<<<<<<< HEAD
-=======
 
->>>>>>> 32fd0a51fae6417099dee70e6cc9aaeaf594c71d
 int _printf(const char *format, ...)
 {
 	int i, printed = 0, printed_chars = 0;
