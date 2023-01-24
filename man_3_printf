@@ -19,7 +19,7 @@ facilities of stdarg) are converted for output.
 Upon successful return, \fB_printf()\fR returns the number of characters
 printed (excluding the null byte used to end output to strings).
 
-If an output error is encountered, -1 is returned.
+If an output error is encountered, -1 is returned
 .in
 
 .B Format of the format string
